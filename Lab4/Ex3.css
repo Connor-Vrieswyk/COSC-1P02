@@ -1,0 +1,21 @@
+div {
+	background-color: green;
+}
+.box {
+	margin: 10px 10px 10px 10px;
+	padding: 5px 5px 5px;
+	border: 5x;
+	border-style: dotted;
+}
+
+div p {
+	color: red;
+}
+
+p + p {
+		color: darkgreen;
+}
+
+#purple {
+	color: purple;
+}
