@@ -1,0 +1,37 @@
+#wrapper{
+	width:1000px;
+	height:850px;
+	margin:0px auto;
+	background-color:green;
+}
+
+#body1{
+	float:left;
+	position: relative;
+	left: 100px;
+	top:10px;
+	width:200px;
+	height:200px;
+	background-color:blue;
+	padding:5px;
+}
+
+#body2{
+	float:left;
+	position: relative;
+	left:500px;
+	top:10px;
+	width:200px;
+	height:200px;
+	background-color:red;
+	padding:5px;
+}
+
+#body3{
+	float:left;
+	position: relative;
+	top:200px;
+	width:200px;
+	height:200px;
+	background-color:yellow;
+}
