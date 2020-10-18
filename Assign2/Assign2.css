@@ -1,0 +1,45 @@
+.blue {
+	color:blue;
+}
+
+.big {
+	font-size:125%;
+}
+
+.font {
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+.case {
+	text-transform: uppercase;
+}
+
+.ab {
+	position:absolute;
+}
+
+.rel {
+	position:relative;
+	left:25px;
+}
+
+.fix {
+	position:fixed;
+	bottom:0px;
+	background-color:white;
+}
+
+.nudge {
+	margin:20px;
+	border:dashed black;
+	padding:10px;
+	color:red
+}
+.nudge p {
+	color:red;
+}
+
+p,h3{
+	color:green;
+}
+
